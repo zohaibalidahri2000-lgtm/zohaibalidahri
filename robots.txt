@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://qrcodegeneratorglobal.netlify.app/sitemap.xml
-
