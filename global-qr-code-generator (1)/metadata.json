@@ -1,7 +1,0 @@
-{
-  "name": "Global QR Code Generator",
-  "description": "A high-performance, professional QR code generation platform supporting URL, WiFi, Email, and vCard formats with extensive customization and download options.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
